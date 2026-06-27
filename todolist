@@ -1,0 +1,65 @@
+# 📝 Python To-Do List Application
+
+A simple command-line **To-Do List Manager** built with Python using **Object-Oriented Programming (OOP)** principles. This application allows users to manage daily tasks efficiently by adding, viewing, completing, and removing tasks through an interactive menu-driven interface.
+
+## ✨ Features
+
+* ➕ Add new tasks
+* 📋 View all tasks
+* ✅ Mark tasks as completed
+* 🗑️ Remove tasks
+* 🎯 Simple and user-friendly command-line interface
+* 🛡️ Input validation for invalid entries
+
+## 🛠️ Technologies Used
+
+* Python 3
+* Object-Oriented Programming (OOP)
+
+## 📂 Project Structure
+
+* **TodoList Class**
+
+  * Stores tasks in a list.
+  * Manages all task-related operations.
+* **Main Function**
+
+  * Provides an interactive menu for users.
+  * Handles user input and program flow.
+
+## 🚀 How to Run
+
+1. Make sure Python 3 is installed.
+2. Save the program as `todo.py`.
+3. Open a terminal in the project directory.
+4. Run the following command:
+
+```bash
+python todo.py
+```
+
+## 📖 Example
+
+```text
+===== TO-DO LIST MENU =====
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Remove Task
+5. Exit
+```
+
+## 🔮 Future Enhancements
+
+* Save tasks to a file (JSON or TXT)
+* Edit existing tasks
+* Add due dates and priorities
+* Search tasks by keyword
+* Sort tasks by priority or completion status
+* Create a graphical user interface (GUI)
+
+## 📄 License
+
+This project is open source and available for learning, personal use, and further development.
+
+
